@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio — Aliftr
+# 📊 Data Analyst Portfolio — Alif Tuah Ramadhan
 
 Welcome! This repository is my living portfolio as a data analyst. It's built around one idea:
 
@@ -30,7 +30,7 @@ Every section here shows not only *what* I built, but *how I think* — the busi
 ## 📫 Contact
 
 - Email: aliftuahramadhan16@gmail.com
-- Linkdn : https://www.linkedin.com/in/alif-tuah-ramadhan-716a541b8
+- Linkedin : https://www.linkedin.com/in/alif-tuah-ramadhan-716a541b8
 - GitHub: this profile
 
 ---
