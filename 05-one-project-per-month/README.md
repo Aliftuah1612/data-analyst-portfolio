@@ -24,6 +24,9 @@ YYYY-MM-project-name/
 | Month | Format | Project | Status |
 |-------|--------|---------|--------|
 | 2026-07 | _(pick one!)_ | | 🔜 planned |
+| 2026-07 | _(pick one!)_ | | 🔜 planned |
+| 2026-07 | _(pick one!)_ | | 🔜 planned |
+| 2026-07 | _(pick one!)_ | | 🔜 planned |
 
 ## The rule
 
