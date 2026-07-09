@@ -30,6 +30,7 @@ Every section here shows not only *what* I built, but *how I think* — the busi
 ## 📫 Contact
 
 - Email: aliftuahramadhan16@gmail.com
+- Linkdn : https://www.linkedin.com/in/alif-tuah-ramadhan-716a541b8
 - GitHub: this profile
 
 ---
